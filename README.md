@@ -39,7 +39,9 @@ npm run dev
 <div class="container">
         <h1>Object Recognition System Documentation</h1>
         <h2>Overview</h2>
-        <p>The Object Recognition System is designed to detect and manage various fruits and vegetables using a camera interface. The system is trained on a dataset consisting of 20 different fruits and vegetables. For detailed information on the training process, refer to the <em>run/train</em> folder.</p>
+        <p>The Object Recognition System is designed to detect and manage various fruits and vegetables using a camera interface. The system is trained on a dataset consisting of 20 different fruits and vegetables. For detailed information on the training process, refer to the
+        <a href="https://drive.google.com/drive/folders/1lAQsSeYI27QFk8lr7TGyp-AUIQZIDx3D?usp=sharing"><em>run/train</em></a> 
+        folder.</p>
         
   <h2>Getting Started</h2>
   <ol>
@@ -107,6 +109,6 @@ npm run dev
             <a href="https://docs.google.com/presentation/d/1MDFgdnaFxTpa-uoNY4t8NCto5PQ3rEBTnsMs_vVO-Mg/edit?usp=sharinghttps://docs.google.com/presentation/d/1MDFgdnaFxTpa-uoNY4t8NCto5PQ3rEBTnsMs_vVO-Mg/edit?usp=sharing">
 Google Slides</a>
              presentation provided.</p>
-            <p>Ensure to check the <em>run/train</em> folder for in-depth details on the training data and process.</p>
+            <p>Ensure to check the <a href="https://drive.google.com/drive/folders/1lAQsSeYI27QFk8lr7TGyp-AUIQZIDx3D?usp=sharing"><em>run/train</em></a> folder for in-depth details on the training data and process.</p>
   </div>
 </div>
