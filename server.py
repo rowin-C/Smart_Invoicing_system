@@ -220,8 +220,8 @@ def QRgen():
         
         return svgStr
 
-            # Simple operation
-    qr0 = QrCode.encode_text(f"upi://pay?pa=saubhagyaprasad31122001@oksbi&pn=Kami_%20Ronwinner&am={total_price}&cu=INR&aid=uGICAgICDuvWfXw", QrCode.Ecc.MEDIUM)
+            # replace exampleuserid@oksbi with the actual UPI ID
+    qr0 = QrCode.encode_text(f"upi://pay?pa=exampleuserid@oksbi&pn=Kami_%20Ronwinner&am={total_price}&cu=INR&aid=uGICAgICDuvWfXw", QrCode.Ecc.MEDIUM)
     svg = to_svg_str(qr0, 4)  # See qrcodegen-demo
     
     return svg
