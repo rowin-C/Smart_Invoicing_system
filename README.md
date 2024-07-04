@@ -1,5 +1,9 @@
 <div >
 <p>This is a implementation of Yolov5 model in solving the problem of billing of non-barcoded items </p>
+
+<img src="ReadmeImages\dashboard.png" alt="Girl in a jacket" >
+<img src="ReadmeImages\layout.jpg" alt="Girl in a jacket" >
+
 <a href="https://docs.google.com/presentation/d/1MDFgdnaFxTpa-uoNY4t8NCto5PQ3rEBTnsMs_vVO-Mg/edit?usp=sharinghttps://docs.google.com/presentation/d/1MDFgdnaFxTpa-uoNY4t8NCto5PQ3rEBTnsMs_vVO-Mg/edit?usp=sharing">
 Complete Information (Google slides)</a>
 
